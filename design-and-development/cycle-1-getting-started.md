@@ -13,4 +13,3 @@ For this phase I will experiment with p5.js, this is designed for interactive vi
 | 3 | Draw a Square to the screen |
 | 4 | Control the location of the square using keyboard controls |
 
-{% github_embed "https://github.com/MarlingSharp/y12-demo/blob/main/src/Player.ts#L4-L38" %}{% endgithub_embed %}
